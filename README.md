@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyushGurjar23
-- 👀 I’m interested in to explorer the the Technology 
-- 🌱 I’m currently learning AWS & Python 
+- 👀 I’m interested in to creat something new website.. 
+- 🌱 I’m currently learning new skills for my Web Development Journey. 
 
 <!---
 AyushGurjar23/AyushGurjar23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
