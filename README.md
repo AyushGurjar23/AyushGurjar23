@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Gurjar</h1>
-<h3 align="center">A passionate frontend developer & learning new things...!</h3>
+<h3 align="center">A passionate Developer & learning new things...!</h3>
 
 <img align="right" alt="coding GIF" width="300" src= "https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
